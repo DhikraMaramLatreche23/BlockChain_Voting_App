@@ -1,4 +1,4 @@
-#  Decentralized Voting System — Blockchain-Based Election Platform
+#  Decentralized Voting System - Blockchain-Based Election Platform
 
 > A secure, transparent, and tamper-proof voting platform built on Ethereum using smart contracts, React, and MetaMask.
 
